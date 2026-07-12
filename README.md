@@ -42,8 +42,7 @@ Mindset     : Consistent effort > motivation
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="50%" />
 </p>
-> ⚠️ Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub username in every link, or the stat cards won't work.
----
+
 🌐 Connect with Me
 <p align="left">
   <a href="mailto:fahadfayaz340@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
